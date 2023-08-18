@@ -100,6 +100,10 @@ wait(0)
 end
     end
 })
+
+local Section = Tab:AddSection({
+    Name = "NOTE: Click on the Anti Afk Script once when it show up (ONLY ONCE)"
+})
     
 local Section = TabTwo:AddSection({
     Name = "Auto Hatch Fast"
