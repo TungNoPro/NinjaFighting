@@ -45,7 +45,7 @@ local Section = Tab:AddSection({
 Tab:AddButton({
     Name = "Wins Farms",
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/RScriptz/RobloxScripts/main/NFS-UGC"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Ninja"))()
     end
 })
 
