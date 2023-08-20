@@ -12,7 +12,7 @@ _G.Key = "BaconB0ssScript&TungIsTheBest"
 _G.KeyInput = "string"
 
 function Hub()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TungNoPro/NewNinja/main/NewNinja"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TungNoPro/ninja/main/ninja"))()
 end
 
 function CorrectKeyNotification()
